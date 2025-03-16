@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hello! I'm Cleber Henrique.
+👨‍💻 - Estudante de TADS no Instituto Federal do Piauí <br>
+✅ - Capacitado em Sistemas Embarcados<br>
+✅ - Fazendo Residência Tecnológica - TIC 37<br>
+✅ - Sistemas Embarcados<br>
+✅ - Python - IA
 
-<!--
-**cleberhdev/cleberhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Victor-Sarris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Sarris&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## Known programming languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+  
+## Social media 
+<div> 
+  <a href="https://www.instagram.com/cleberhen123/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleber-duarte-9025b328a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/github-contribution-grid-snake.svg">
+</picture>
